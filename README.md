@@ -16,6 +16,3 @@ A multi-role e-commerce desktop application built with C# WinForms and SQL Serve
 - C# / .NET (WinForms)
 - SQL Server (ADO.NET, SqlConnection/SqlCommand, parameterized queries)
 
-## Notes
-
-This was built as a university database systems project. Known limitations: passwords are not hashed, and some image paths are hardcoded to a local machine, both are things I'd address in a production version.
